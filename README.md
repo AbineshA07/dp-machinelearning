@@ -1,7 +1,4 @@
 # 🤖Machine Learning App
-```
-
-```
 
 This is Machine Learning App...
 
